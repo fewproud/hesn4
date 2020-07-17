@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: demohesn
-Bundle-SymbolicName: demohesn
+Bundle-Name: hesn
+Bundle-SymbolicName: hesn
 Bundle-Version: 1.0.0.qualifier
 Require-Bundle: com.ibm.rational.test.lt.kernel,
   com.ibm.rational.test.lt.datatransform.adapters,
@@ -35,5 +35,5 @@ Require-Bundle: com.ibm.rational.test.lt.kernel,
   org.eclipse.emf.ecore.xmi,
   org.eclipse.tptp.platform.models.hierarchy,
   org.eclipse.tptp.platform.models
-Automatic-Module-Name: demohesn
+Automatic-Module-Name: hesn
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
